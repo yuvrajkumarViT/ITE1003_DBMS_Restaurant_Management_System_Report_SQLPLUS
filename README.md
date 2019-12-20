@@ -1,0 +1,2 @@
+# ITE1003_DBMS_Restaurant_Management_System_Report_SQLPLUS
+VIT DBMS Project using SQLPlus
